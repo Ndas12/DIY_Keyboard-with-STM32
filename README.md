@@ -4,8 +4,6 @@ This project demonstrates how to interface a simple keyboard with the STM32F407 
 
 # Project Overview:
 
-# In this system:
-
 4 Push Buttons are used as input devices, each acting as a key in the keyboard interface.
 
 4 LEDs are configured as output devices, where each LED corresponds to one of the push buttons. When a button is pressed, the corresponding LED will light up.
