@@ -3,6 +3,7 @@
 This project demonstrates how to interface a simple keyboard with the STM32F407 microcontroller using 4 push buttons as input keys and 4 LEDs as output indicators. When a button is pressed, the corresponding LED lights up, providing real-time feedback. This setup is ideal for understanding GPIO pin configuration and working with simple input/output systems on STM32 microcontrollers.
 
 Project Overview:
+
 In this system:
 
 4 Push Buttons are used as input devices, each acting as a key in the keyboard interface.
